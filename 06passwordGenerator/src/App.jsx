@@ -69,7 +69,6 @@ function App() {
               onChange={()=>{setCharacterAllowed((prev)=>!prev)}}
               />
               <label htmlFor="">Character</label>
-
           </div>
         </div>
       </div>
